@@ -1,0 +1,40 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+ 
+
+ 
+input{
+    width: 500px;
+    padding:5px 10px 5px 60px;
+    box-shadow: 0 0 10px 0 rgb(121, 114, 114);
+    border:none;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 22px;
+    position: absolute;
+    bottom: 600px;
+    margin-left:650px;
+    outline: none;
+    box-sizing: border-box;
+    
+    
+}
+ 
+ .img1{
+     margin-left: 750px;
+     bottom: -140px;
+     position: relative;
+    
+ }
+
+ .img2{
+     margin-left: 670px;
+     position: relative;
+     bottom: -175px;
+ }
+ 
+
+ 
